@@ -1,0 +1,46 @@
+*{
+    margin: 0;
+    padding: 0;
+
+}
+a{
+    text-decoration: none;
+}
+
+.nevbar ul li{
+    list-style: none;
+}
+.nevbar ul li a{
+    color: white;
+
+}
+
+.banner{
+    background-image: url(../img/banner.jpg);
+    background-position: bottom;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+
+.icon i{
+height: 60px;
+width: 60px;
+background-color: rgb(64, 35, 102);
+line-height: 60px;
+text-align: center;
+color:white;
+border-radius: 100%;
+font-size: 18px;
+}
+
+.image img{
+    max-width: 100%;
+    border-radius: 10px;
+}
+
+
+.img-s img{
+    width: 100%;
+    height: auto;
+}
